@@ -1,1 +1,6 @@
-hello devFile!
+public class devFile
+{
+	public static void main(String[] args)
+	{
+	}
+}
