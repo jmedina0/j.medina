@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 This is file from dev1
 This is from dev2.0 branch
 
+=======
+this is master file from dev3.
+>>>>>>> dev3.0
