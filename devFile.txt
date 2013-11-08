@@ -4,5 +4,6 @@ public class devFile
 	{
 		System.out.print("Hello Gays");
 				System.out.print("Hello! I 'm Joemark.");
+				System.out.print("Hi, I am Almond");
 	}
 }
